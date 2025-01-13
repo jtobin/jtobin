@@ -1,6 +1,6 @@
 Hey. I write a lot of stuff, mostly in Haskell. Some things you might be interested in:
 
-- [ppad-tech](https://github.com/ppad-tech) contains a bunch of foundational cryptography and adjacent libraries for Haskell.
+- [ppad-tech](https://github.com/ppad-tech) contains a bunch of foundational cryptography and adjacent libraries.
   - 📝 [secp256k1](https://github.com/ppad-tech/secp256k1) implements Schnorr/ECDSA on secp256k1. [csecp256k1](https://github.com/ppad-tech/csecp256k1) binds to libsecp256k1.
   -  🔗 [bech32](https://github.com/ppad-tech/bech32) supports bech32m/bech32; [base58](https://github.com/ppad-tech/base58) supports base58 & base58check.
   - 🔐 [sha256](https://github.com/ppad-tech/sha256) and [sha512](https://github.com/ppad-tech/sha512) implement their respective hash functions & HMACs, and [ripemd160](https://github.com/ppad-tech/ripemd160) supports RIPEMD-160.
