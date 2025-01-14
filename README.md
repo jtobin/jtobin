@@ -17,7 +17,7 @@ I'm a lapsed statistician, so have a lot of random (ha ha, get it?) statistical 
 - 🧩 [sampling](https://github.com/jtobin/sampling) provides basic functionality for sampling from arbitrary Foldable collections.
 - 📏 [measurable](https://github.com/jtobin/measurable) is an illustrative DSL for working with probability measures.
 
-There's also some miscellanea that might also be of interest:
+There's also some miscellanea that might be of interest:
 
 - 🔓 [cryptopals](https://github.com/jtobin/cryptopals) contains solutions to the famous cryptopals challenges.
 - 📚 [okasaki](https://github.com/jtobin/okasaki) implements stuff from Okasaki's *Purely Functional Data Structures*, often via recursion schemes and CPS.
