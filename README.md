@@ -1,4 +1,4 @@
-Hey. I write a lot of stuff, mostly in Haskell. Some things you might be interested in:
+Hey. I write a lot of stuff. Some things you might be interested in:
 
 - [ppad-tech](https://github.com/ppad-tech) contains a bunch of minimalist foundational cryptography (and adjacent) libraries.
   - 📝 [secp256k1](https://github.com/ppad-tech/secp256k1) implements Schnorr/ECDSA on secp256k1. [csecp256k1](https://github.com/ppad-tech/csecp256k1) binds to libsecp256k1.
