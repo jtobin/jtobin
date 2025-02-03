@@ -23,6 +23,6 @@ There's also some miscellanea that might be of interest:
 - 🔓 [cryptopals](https://github.com/jtobin/cryptopals) contains solutions to the famous cryptopals challenges.
 - 📚 [okasaki](https://github.com/jtobin/okasaki) implements stuff from Okasaki's *Purely Functional Data Structures*, often via recursion schemes and CPS.
 - ⬆️ [up](https://git.jtobin.io/up) is a priority search queue (+up) and LRU cache (+lu) library for Hoon, plus a full suite of u3 jets in C.
-- 🔢 [hnock](https://github.com/jtobin/hnock) is a basic Nock interpreter for Haskell.
+- 🔢 [hnock](https://github.com/jtobin/hnock) is a basic Nock interpreter.
   
 You can find a more comprehensive list at [jtobin.io/software](https://jtobin.io/software).
