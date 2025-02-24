@@ -5,7 +5,8 @@ Hey. I write a lot of stuff. Some things you might be interested in:
   - 🌳 [bip32](https://github.com/ppad-tech/bip32) implements the BIP32 hierarchical deterministic wallet.
   -  🔗 [bech32](https://github.com/ppad-tech/bech32) supports bech32m/bech32; [base16](https://github.com/ppad-tech/base16) and [base58](https://github.com/ppad-tech/base58) support hex and base58/base58check.
   - 🔐 [sha256](https://github.com/ppad-tech/sha256) and [sha512](https://github.com/ppad-tech/sha512) implement their respective hash functions & HMACs, and [ripemd160](https://github.com/ppad-tech/ripemd160) supports RIPEMD-160.
-  - 🔑 [hmac-drbg](https://github.com/ppad-tech/hmac-drbg) implements the HMAC-DRBG CSPRNG, and [hkdf](https://github.com/ppad-tech/hkdf) is a simple HMAC-based KDF.
+  - 🔑 [hmac-drbg](https://github.com/ppad-tech/hmac-drbg) implements the HMAC-DRBG CSPRNG.
+  - 🛠️ [pbkdf](https://github.com/ppad-tech/pbkdf) is a PBKDF2 implementation, and [hkdf](https://github.com/ppad-tech/hkdf) is a HMAC-based KDF.
   - ✍️ [script](https://github.com/ppad-tech/script) contains basic representations and conversion functions for [Script](https://opcodeexplained.com/script/).
 
 I'm a lapsed statistician, so have a lot of random (ha ha, get it?) statistical libraries kicking around:
