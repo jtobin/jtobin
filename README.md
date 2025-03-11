@@ -8,6 +8,7 @@ Hey. I write a lot of stuff. Some things you might be interested in:
   - 🔐 [sha256](https://github.com/ppad-tech/sha256) and [sha512](https://github.com/ppad-tech/sha512) implement their respective hash functions & HMACs, and [ripemd160](https://github.com/ppad-tech/ripemd160) supports RIPEMD-160.
   - 🔑 [hmac-drbg](https://github.com/ppad-tech/hmac-drbg) implements the HMAC-DRBG CSPRNG.
   - 💃 [chacha](https://github.com/ppad-tech/chacha) implements the ChaCha20 stream cipher, and [poly1305](https://github.com/ppad-tech/poly1305) the Poly1305 MAC.
+  - 🏯 [aead](https://github.com/ppad-tech/aead) contains an AEAD-ChaCha20-Poly1305 construction, using the above libraries.
   - 🛠️ [pbkdf](https://github.com/ppad-tech/pbkdf) is a PBKDF2 implementation, and [hkdf](https://github.com/ppad-tech/hkdf) is a HMAC-based KDF.
   - ✍️ [script](https://github.com/ppad-tech/script) contains basic representations and conversion functions for [Script](https://opcodeexplained.com/script/).
 
